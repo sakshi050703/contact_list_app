@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": "81b9",
+      "name": "Harsh",
+      "surname": "jadhav",
+      "tel": "987564"
+    },
+    {
+      "id": "f46b",
+      "name": "atul",
+      "surname": "Jadhav",
+      "tel": "9566789234"
+    },
+    {
+      "id": "37dc",
+      "name": "Sakshi",
+      "surname": "Jadhav",
+      "tel": "23646765"
+    },
+    {
+      "id": "17c8",
+      "name": "shrisha",
+      "surname": "Jadhav",
+      "tel": "9364676545"
+    }
+  ]
+}
